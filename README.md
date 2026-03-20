@@ -8,7 +8,7 @@ Estimated Time Spent: 3hours
 
 
 ## Quick Start
-ß
+
 Upload a resume, pick a target role, and get an AI-generated gap analysis (matched vs missing skills), plus an AI roadmap, interview questions, and career insights.
 
 ### Prerequisites
@@ -94,13 +94,7 @@ Frontend: [frontend/package.json](frontend/package.json)
 
 
 
-Candidate Name:
 
-Scenario Chosen:
-
-Estimated Time Spent:
-
-Quick Start:
 
 - Prerequisites:
   - Node.js
