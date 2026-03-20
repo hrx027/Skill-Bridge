@@ -7,6 +7,8 @@ Scenario Chosen: Skill-Bridge Career Navigator
 
 Estimated Time Spent: 3hours
 
+Working Demo-video Link: https://youtu.be/aIpe-mBii28
+
 
 
 ## Quick Start
