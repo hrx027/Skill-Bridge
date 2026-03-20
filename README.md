@@ -23,6 +23,18 @@ Upload a resume, pick a target role, and get an AI-generated gap analysis (match
 
 ### Run Commands
 
+Before running, create your local environment files (do not commit secrets):
+
+Backend env (create `backend/.env`):
+
+```bash
+GROQ_API_KEY=your_groq_api_key_here
+GROQ_MODEL=openai/gpt-oss-120b
+CONVEX_DEPLOYMENT_URL=https://<your-convex-deployment>.convex.cloud
+CONVEX_ADMIN_KEY=
+FRONTEND_ORIGIN=http://localhost:3000
+```
+
 Backend (FastAPI, port 71):
 
 ```bash
