@@ -1,4 +1,6 @@
 
+# Skill-Bridge
+
 Candidate Name: Hrithik Raj
 
 Scenario Chosen: Skill-Bridge Career Navigator
@@ -131,4 +133,4 @@ Tradeoffs & Prioritization:
   - The core AI endpoints require `GROQ_API_KEY` and return 503 if missing.
   - Web search uses simple HTML scraping; a dedicated search API would be more reliable.
   - Secrets should not be committed; move keys to local-only env files and CI secrets.
-# Skill-Bridge
+
